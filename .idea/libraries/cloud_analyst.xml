@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloud_analyst">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/cloud_analyst.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
